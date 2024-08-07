@@ -29,8 +29,8 @@ A passionate Data Scientist from India.
 
 ## GitHub Stats
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen8680&show_icons=true&locale=en&layout=compact" alt="Naveen's GitHub Top Languages"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen8680&show_icons=true&locale=en" alt="Naveen's GitHub Stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen_anandhan&show_icons=true&locale=en&layout=compact" alt="Naveen's GitHub Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen_anandhan&show_icons=true&locale=en" alt="Naveen's GitHub Stats"/>
 </div>
 
 ## LeetCode Profile
