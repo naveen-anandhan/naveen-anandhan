@@ -35,11 +35,15 @@
 </p>
 
 ## GitHub Stats
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-anandhan&show_icons=true&locale=en&layout=compact" alt="Naveen's GitHub Top Languages"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-anandhan&show_icons=true&locale=en" alt="Naveen's GitHub Stats"/>
- 
-</div>
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naveen-anandhan&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naveen-anandhan&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ## LeetCode Profile
-[![LeetCode Card](https://leetcard.jacoblin.cool/Naveen8680?theme=dark)](https://leetcode.com/Naveen8680/)
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Naveen8680?theme=radical&font=JetBrains%20Mono&ext=heatmap" />
+</p>
