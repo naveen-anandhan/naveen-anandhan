@@ -1,24 +1,30 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&width=223&duration=1&pause=999999&repeat=false&lines=Hi+I'm+Naveen"/>
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&width=480&lines=Data+Scientist;AI+Engineer+in+Progress;Python+%7C+ML+%7C+GenAI;LeetCode+Grinder"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&width=228&duration=1&pause=999999&repeat=false&lines=Hi+I'm+Naveen"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&width=480&lines=Data+Scientist;AI+Engineer+in+Progress;Python+%7C+ML+%7C+GenAI+Expert;LeetCode+Grinder"/>
 </p>
 
 
-
-# Hi there! 👋 I'm Naveen
-
-A passionate Data Scientist from India.
-
-![Banner Image](https://www.blueoceanglobaltech.com/wp-content/uploads/2021/08/Data-Science-Banner.jpg)
-
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## About Me
-- 🌱 I’m currently learning **Data science**
-- 💬 Ask me about **Python, SQL**
+- 🌱 Learning **Data Science / AI**
+- 🚀 Building **end-to-end ML & GenAI projects**
+- 🎯 Focused on **Production ML, LLM apps & System Design**
+- 🧠 Solving **LeetCode problems daily**
+- 💬 Ask me about **Python, SQL, ML, DL, GenAI, DSA**
 - 📫 How to reach me: [mr.navi8680@gmail.com](mailto:mr.navi8680@gmail.com)
 
+</td>
+
+<td width="40%" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+<!-- ![Banner Image](https://www.blueoceanglobaltech.com/wp-content/uploads/2021/08/Data-Science-Banner.jpg)  -->
 
 ## Languages and Tools
 
